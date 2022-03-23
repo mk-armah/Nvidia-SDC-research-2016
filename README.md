@@ -1,11 +1,11 @@
 # EV-Research and Development - #1
 ----
 
-This repository is the first in the Journey of Electric Vehicle Research and Development.
+This repository is the first in the Journey of Self Driving Feature Research and Development.
 
 
 ### End to End Learning for Self Driving Cars.
-The Idea is to Implement a Research Paper Released By Mariussz Bojarski and The Nvidia Team - "End to End Learning For Self Driving Cars" For Prototyping.
+The Idea is to Implement a Research Paper Released By Mariussz Bojarski and The Nvidia Team - "End to End Learning For Self Driving Cars" For Self Driving Feature Prototyping.
 A CNN is trained to map raw pixels from a single front-facing camera directly to steering commands.
 
 # Why This Paper ?
